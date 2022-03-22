@@ -1,0 +1,9 @@
+id,nombre,pelo,estatura,peso,protector,quemado
+e1,sara,rubio,promedio,ligero,no,si
+e2,diana,rubio,alta,promedio,si,no
+e3,alexis,castaño,baja,promedio,si,no
+e4,ana,rubio,baja,promedio,no,si
+e5,emilia,pelirrojo,promedio,pesado,no,si
+e6,pedro,castaño,alta,pesado,no,no
+e7,juan,castaño,promedio,pesado,no,no
+e8,catalina,rubio,baja,ligero,si,no
