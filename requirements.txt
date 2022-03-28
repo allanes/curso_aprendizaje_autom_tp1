@@ -1,4 +1,5 @@
 pandas
 matplotlib
+graphwiz
 scikit-learn
 pydotplus
