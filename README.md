@@ -8,6 +8,12 @@ El formato de entrega es en Jupyter Notebook.
 
 El ejercicio 1 está resuelto en `ejercicio1.ipynb`.
 
+## Consideraciones
+
+El ejercicio 1 genera 4 archivos de salida, todos con el mismo timestamp al final.
+
+Corresponden a la imagen del arbol (.png) y a los parámetros usados para generarlo (.txt)
+
 
 ## Instalación (para uso local)
 Se usó la herramienta venv para el manejo de dependencias.
